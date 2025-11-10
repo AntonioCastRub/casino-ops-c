@@ -1,7 +1,7 @@
 
 /*
  * Proyecto: Casino Ops - Gestión de máquinas con registros (struct) en C
- * Archivo:  main.c
+ * Archivo:  main.c.c
  * Compila:  gcc -std=c99 -Wall -Wextra -O2 main.c -o casino_ops
  * Ejecución (demo determinista para el informe):
  *           gcc -std=c99 -Wall -Wextra -O2 -DDEMO_RUN main.c -o casino_ops && ./casino_ops
