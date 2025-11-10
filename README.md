@@ -58,13 +58,6 @@ typedef struct {
 
 ---
 
-## Evidencia
-
-- **Captura de ejecución (DEMO_RUN)**: `ejecucion_demo.png`  
-  ![Ejecución demo](./ejecucion_demo.png)
-
----
-
 ## Puntos clave del diseño
 
 - **Paso por referencia** con punteros para actualizar directamente elementos del arreglo (`registerUsage`).
